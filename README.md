@@ -1,2 +1,2 @@
-# Img
+# IMG
 Image hosting service
